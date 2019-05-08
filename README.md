@@ -26,8 +26,6 @@ simultaneous* (or *non-simultaneous* model) in an efficient way.
 
 Thus a model **flows** through a number of phases, from a formulation in business logic language to a Python program which can solve the model. 
 
- 
-
 If the
 model is not initially specified in the Business logic language, Python
 offers a wide range of possibilities to grab a model and transform it to
@@ -101,7 +99,7 @@ Also bear in mind that ModelFlow is experimental. It is provided ”as is”, wi
 
 You need Python 3.6+ with asssociated libraries. The easy way is to install Anaconda Python [https://www.anaconda.com/distribution](https://www.anaconda.com/distribution)
 
-In addition to the standard packagdes in the Anaconda distribution you need: Graphviz and cvxopt: they can be installed by running a command window from the Anaconda prompt and stating 
+In addition to the standard packagdes in the Anaconda distribution you need: **Graphviz** and **cvxopt**: they can be installed by running a command window from the Anaconda prompt and stating 
 
 `
 conda install graphviz
