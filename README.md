@@ -99,10 +99,11 @@ Also bear in mind that ModelFlow is experimental. It is provided ”as is”, wi
 
 You need Python 3.6+ with asssociated libraries. The easy way is to install Anaconda Python [https://www.anaconda.com/distribution](https://www.anaconda.com/distribution)
 
-In addition to the standard packagdes in the Anaconda distribution you need: **Graphviz** and **cvxopt**: they can be installed by running a command window from the Anaconda prompt and stating 
+In addition to the standard packagdes in the Anaconda distribution you need: **Graphviz** and **cvxopt**: they can be installed by running a command window from the Anaconda prompt and execute theese commands 
 
 `
 conda install graphviz
+
 conda install cvxopt 
 `
 
