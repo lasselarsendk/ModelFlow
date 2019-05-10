@@ -11,7 +11,7 @@ It requires you to specify the *model* specified as equations (the **business lo
 
 A number of **analytical tools for model and result analytic** helps to understand the model and its results.
 
-The user can **extend and modify the tools** to her or his needs. All code is in Python and the core is quite small.
+The user can **extend and modify the tools** to her or his needs.
 
 **Onboarding models and combining models from different sources**. Creating a Macro prudential model often entails recycling several models specified in different ways: Excel, Latex, Dynare, Python or other languages. Python's ecosystem makes it possible to transform many different models into ModelFlow models or to wrap them into functions which can be called from ModelFlow models.
 
