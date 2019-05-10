@@ -88,9 +88,10 @@ You need Python 3.6+ with asssociated libraries. The easy way is to install Anac
 In addition to the standard packagdes in the Anaconda distribution you need: **Graphviz** and **cvxopt**: they can be installed by running a command window from the Anaconda prompt and execute theese commands 
 
 
+```
 conda install graphviz
-
-conda install cvxopt 
+conda install cvxopt
+```
 
 
 You will find the anaconda prompt by searching "anaconda" in the start menu search field
