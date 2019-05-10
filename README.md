@@ -7,7 +7,7 @@ However when it comes to models which contains lags or models which requires sol
 
 ModelFlow extends Pandas to handle a range of such models.   
 
-It requires you to specify the *model* specified as equations (the **business logic**) and place data in a Pandas  **DataFrame**.  ModelFlow allows the model to meet the data and return the result as a new DataFrame. 
+It requires you to specify the *model* specified as equations (the **business logic**) and place the *data* in a Pandas  **DataFrame**.  ModelFlow allows the model to meet the data and return the result as a new DataFrame. 
 
 A number of analytical tools for model and result analytic helps to understand the model and its results.
 
